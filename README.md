@@ -1,8 +1,3 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
 ### Hi there 👋 I'm [Cesar Pelogia](https://br.linkedin.com/in/cesar-augusto-anselmo-pelogia-truyts-94a08a268)
 > Technology and marketing analyst at [Oversonic](https://www.oversonic.com.br/)
 
@@ -10,13 +5,18 @@
 
 <div>
  <p>
-I am a Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout, and programming. Skilled at writing well-designed, testable, and efficient code using current best practices in Web development. Fast learner, hard worker, and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am a Mid-level Web Developer with a proven track record of building robust web applications from the ground up. One of my notable achievements is the successful development and deployment of the [Zeus_Coderhood_FATEC](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC) project, which showcases my ability to design, code, and implement efficient and scalable solutions.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+My skill set encompasses a broad range of technologies including Java, Python, HTML, CSS, JavaScript, SQL, Spring Boot, Vue.js, NPM, and Maven. Currently, I am deepening my expertise in database systems, an area I am passionate about.
 
-Currently, I am a student at FATEC São José dos Campos - Prof. Jessen Vidal, pursuing a degree in Database Systems.
+In addition to my technical skills, I excel in both collaborative and leadership roles. I effectively lead my teams as a Scrum Master in academic projects, demonstrating strong communication and organizational skills. My ability to work well with others and drive projects forward is a key strength.
+
+Looking ahead, I am particularly excited about pursuing opportunities within the gaming industry. My ambition is to leverage my web development background and database knowledge to contribute to innovative and engaging gaming experiences.
+
+With a commitment to continuous learning and a proactive approach to problem-solving, I am eager to bring my skills and enthusiasm to new challenges in the tech world.
 </p>
 </div>
+
 
 ### Programming Languages 🌐
 
