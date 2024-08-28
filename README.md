@@ -1,7 +1,5 @@
 # Olá, seja bem vindo!
 
-## 🗂️ Sobre Mim
-
 Eu sou Cesar Pelogia e este é o meu repositório no GitHub. Aqui você pode encontrar uma coleção de meus projetos e contribuições no mundo da programação. 
 
 ## 📊 Linguagens de Programação
