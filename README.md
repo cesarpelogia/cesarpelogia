@@ -37,7 +37,7 @@ Com um background robusto e uma paixão por aprender e crescer, estou entusiasma
 
 ### 🎓 Formação Acadêmica
 
-- **Tecnólogo em Banco de Dados** - Fatec São José dos Campos - Prof. Jessen Vidal - Atualmente/07/2026
+- **Tecnólogo em Banco de Dados** - Fatec São José dos Campos - Prof. Jessen Vidal - Atualmente - 07/2026
 
 
 ### Github Stats
