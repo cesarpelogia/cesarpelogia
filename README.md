@@ -47,9 +47,16 @@ Com um background robusto e uma paixão por aprender e crescer, estou entusiasma
 
 ### Github Repository
 
-[Zeus_Coderhood_FATEC](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC): Projeto desenvolvido para o projeto semestral da Fatec São José dos Campos. Trata-se de um gerenciador de dados climáticos que utiliza as tecnologias:
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) | ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-|---|---|---|---|
+[Terceiro Semestre](https://github.com/cesarpelogia/Fatec-Teceiro-Semestre): Repositório com as atividades das disciplinas do terceiro semestre.
+
+
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Fatec-Teceiro-Semestre&show_owner=true)](https://github.com/cesarpelogia/Fatec-Teceiro-Semestre)
+
+   <BR>
+
+[Zeus](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC): Projeto desenvolvido para o projeto semestral da Fatec São José dos Campos. Trata-se de um gerenciador de dados climáticos que utiliza as tecnologias:
+
+<br>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Zeus_Coderhood_FATEC&show_owner=true)](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC)
 
@@ -58,6 +65,7 @@ Com um background robusto e uma paixão por aprender e crescer, estou entusiasma
 <p align="center">
 <a href="https://br.linkedin.com/in/cesar-augusto-anselmo-pelogia-truyts-94a08a268" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cesar%20Pelogia-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:pelogia.cesar@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pelogia.cesar@hotmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.instagram.com/cesarpelogia" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cesarpelogia-blue?style=flat&logo=instagram"></a>
 </p>
 
 ⭐️ From [@cesarpelogia](https://github.com/cesarpelogia)
