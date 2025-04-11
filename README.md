@@ -45,20 +45,47 @@ Com um background robusto e uma paixão por aprender e crescer, estou entusiasma
 | [![Cesar Pelogia GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesarpelogia&show_icons=true&count_private=true&hide=issues&hide_rank=false&line_height=24&hide_title=true&card_width=400&card_height=200)](https://github.com/cesarpelogia) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpelogia&layout=compact&count_private=true&card_width=400&card_height=200&langs_count=6)](https://github.com/cesarpelogia) |
 |---|---|
 
-### Github Repository
+## Github Repository
 
-[Terceiro Semestre](https://github.com/cesarpelogia/Fatec-Teceiro-Semestre): Repositório com as atividades das disciplinas do terceiro semestre.
+### Quarto Semestre:
 
+#### Disciplinas desenvolvidas:
+
+Repositório com as atividades do quarto semestre:
+
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Fatec-Quarto-Semestre)](https://github.com/cesarpelogia/Fatec-Quarto-Semestre)
+
+#### API:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Morpheus-Fatec&repo=API_4S_Visiona_PolygonEditor&show_owner=true)](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor)
+
+---
+
+### Terceiro Semestre:
+
+#### Disciplinas desenvolvidas:
+
+Repositório com as atividades das disciplinas do terceiro semestre.
 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Fatec-Teceiro-Semestre&show_owner=true)](https://github.com/cesarpelogia/Fatec-Teceiro-Semestre)
 
-   <BR>
 
+#### API:
+
+   [Morpheus:](https://github.com/cesarpelogia/FatecMorpheus)
+
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=FatecMorpheus&show_owner=true)](https://github.com/cesarpelogia/FatecMorpheus)
+
+   ---
+
+### Segundo Semestre:
+
+#### API:
 [Zeus](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC): Projeto desenvolvido para o projeto semestral da Fatec São José dos Campos. Trata-se de um gerenciador de dados climáticos que utiliza as tecnologias:
 
-<br>
-
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Zeus_Coderhood_FATEC&show_owner=true)](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC)
+
+---
 
 <h3> 🤝🏻 Connect with Me </h3>
 
