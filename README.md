@@ -57,7 +57,9 @@ Repositório com as atividades do quarto semestre:
 
 #### API:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Morpheus-Fatec&repo=API_4S_Visiona_PolygonEditor&show_owner=true)](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor)
+[Demeter:](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor) Editor de polígonos que oferece métricas qualitativas e quantitativas sobre as correções.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Morpheus-Fatec&repo=API_4S_Visiona_PolygonEditor)](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor)
 
 ---
 
@@ -67,23 +69,23 @@ Repositório com as atividades do quarto semestre:
 
 Repositório com as atividades das disciplinas do terceiro semestre.
 
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Fatec-Teceiro-Semestre&show_owner=true)](https://github.com/cesarpelogia/Fatec-Teceiro-Semestre)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Fatec-Teceiro-Semestre)](https://github.com/cesarpelogia/Fatec-Teceiro-Semestre)
 
 
 #### API:
 
-   [Morpheus:](https://github.com/cesarpelogia/FatecMorpheus)
+   [Morpheus:](https://github.com/cesarpelogia/FatecMorpheus) Ferramenta para captura e armazenamento de notícias estratégicas e dados relevantes associados.
 
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=FatecMorpheus&show_owner=true)](https://github.com/cesarpelogia/FatecMorpheus)
+   [![ReadMe Card:](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=FatecMorpheus)](https://github.com/cesarpelogia/FatecMorpheus)
 
    ---
 
 ### Segundo Semestre:
 
 #### API:
-[Zeus](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC): Projeto desenvolvido para o projeto semestral da Fatec São José dos Campos. Trata-se de um gerenciador de dados climáticos que utiliza as tecnologias:
+[Zeus:](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC) Gerenciador de dados climáticos à partir de dados provenientes de arquivo CSV.
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Zeus_Coderhood_FATEC&show_owner=true)](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Zeus_Coderhood_FATEC)](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC)
 
 ---
 
