@@ -1,91 +1,86 @@
-### Olá! 👋 Eu sou o  [Cesar Pelogia](https://br.linkedin.com/in/cesar-augusto-anselmo-pelogia-truyts-94a08a268)
-> Sou analista de Tecnologia e Marketing na [Oversonic](https://www.oversonic.com.br/)
-
-<img src="https://komarev.com/ghpvc/?username=cesarpelogia" alt="cesarpelogia" />
-
-<div>
- <p>
-Sou um profissional com 15 anos de experiência na indústria, agora focado em explorar novos horizontes na tecnologia.
-
-Com um background robusto e uma paixão por aprender e crescer, estou entusiasmado com minha transição para a área de Tecnologia e Banco de Dados.
-
-</p>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a1f0a,50:0d2b0d,100:0a1a0a&height=300&section=header&text=Hi,%20I'm%20Cesar%20Pelogia&fontSize=70&fontColor=00ff55&animation=fadeIn&fontAlignY=38&desc=Database%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Systems%20Integrations&descSize=20&descAlignY=55&descAlignX=50)](https://github.com/cesarpelogia) <br>
+![Profile views](https://komarev.com/ghpvc/?username=cesarpelogia&label=Profile%20views&color=7745bf&)
+![GitHub followers](https://img.shields.io/github/followers/cesarpelogia?style=flat&logo=github&label=Followers&color=7c60d1)
+![GitHub stars](https://img.shields.io/github/stars/cesarpelogia?style=flat&logo=github&label=Stars&color=fd7cff)
+<br>
+<div class="badges-githubstats">
+  <img src="https://github-readme-stats.vercel.app/api?username=cesarpelogia&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="cesarpelogia's github statistics" height="140" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesarpelogia&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="cesarpelogia's github commit streak" height="140" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpelogia&layout=compact&hide_border=true&bg_color=082421&title_color=7c60d1&text_color=f0f0f5&border_radius=10&langs_count=6" alt="cesarpelogia's top languages" height="140" />
 </div>
-
-### Programming Languages
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="24">](https://www.oracle.com/java/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="24">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="24">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="24">](https://www.sql.org/) |
-|---|---|---|---|---|---|
-
-
-### Frameworks
-
-| [<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="24">](https://spring.io/projects/spring-boot) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="24">](https://vuejs.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" width="24">](https://www.npmjs.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven" width="24">](https://maven.apache.org/) |
-|---|---|---|---|
-
-### Tools
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="24">](https://www.mysql.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VS Code" width="24">](https://code.visualstudio.com/) | [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="24">](https://www.jetbrains.com/idea/) | [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="24">](https://www.postgresql.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |
-|---|---|---|---|---|
-
-### Habilidades Adicionais
-
-- **Habilidades de Comunicação**: Experiência em apresentação e escrita técnica, com capacidade de transmitir informações complexas de forma clara e eficaz.
-
-- **Gerenciamento de Projetos**: Atuação como Scrum Master nas equipes da faculdade, liderando projetos com metodologias ágeis, facilitando a colaboração entre membros da equipe e garantindo a entrega de resultados de alta qualidade.
-
-
-### 🎓 Formação Acadêmica
-
-- **Tecnólogo em Banco de Dados** - Fatec São José dos Campos - Prof. Jessen Vidal - Atualmente - 07/2026
-
-
-### Github Stats
-
-| [![Cesar Pelogia GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesarpelogia&show_icons=true&count_private=true&hide=issues&hide_rank=false&line_height=24&hide_title=true&card_width=400&card_height=200)](https://github.com/cesarpelogia) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpelogia&layout=compact&count_private=true&card_width=400&card_height=200&langs_count=6)](https://github.com/cesarpelogia) |
-|---|---|
-
-## Github Repository
-
-### Quarto Semestre:
-
-#### Disciplinas desenvolvidas:
-
-Repositório com as atividades do quarto semestre:
-
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Fatec-Quarto-Semestre)](https://github.com/cesarpelogia/Fatec-Quarto-Semestre)
-
-#### API:
-
-[Demeter:](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor) Editor de polígonos que oferece métricas qualitativas e quantitativas sobre as correções.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Morpheus-Fatec&repo=API_4S_Visiona_PolygonEditor)](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor)
 
 ---
 
-### Terceiro Semestre:
+## About me
 
-#### Disciplinas desenvolvidas:
+I'm a Database Technology graduate from
+[Fatec São José dos Campos](https://sjc.fatec.sp.gov.br/curso_bd)
+and currently working as a Support Analyst at [Kersys](https://www.kersys.com.br/).
 
-Repositório com as atividades das disciplinas do terceiro semestre.
+Before transitioning into tech, I spent 15 years as a mechanical technician
+in the industrial sector — an experience that shaped how I think about systems,
+reliability, and integration. In 2023, I made a deliberate career shift:
+I enrolled at Fatec and, shortly after, landed my first role in tech at Oversonic,
+a music production company where I developed integrations and automations.
 
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Fatec-Teceiro-Semestre)](https://github.com/cesarpelogia/Fatec-Teceiro-Semestre)
+My focus is on **database engineering** and **backend development**,
+with a particular interest in system integrations and data-driven solutions.
 
+Outside of tech, I play bass and handle the business side of a modern metal band ([Burst Into Fire](https://www.burstintofire.com/)) —
+which turns out to be surprisingly good training for Scrum Mastering.
 
-#### API:
+---
 
-   [Morpheus:](https://github.com/cesarpelogia/FatecMorpheus) Ferramenta para captura e armazenamento de notícias estratégicas e dados relevantes associados.
+## 🔧 Tech Stack
 
-   [![ReadMe Card:](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=FatecMorpheus)](https://github.com/cesarpelogia/FatecMorpheus)
+### Languages
+| [![Java](https://img.shields.io/badge/Java-00aa44?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) | [![Python](https://img.shields.io/badge/Python-00aa44?style=flat&logo=python&logoColor=white)](https://www.python.org/) | [![JavaScript](https://img.shields.io/badge/JavaScript-00aa44?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![SQL](https://img.shields.io/badge/SQL-00aa44?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![HTML](https://img.shields.io/badge/HTML-00aa44?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS](https://img.shields.io/badge/CSS-00aa44?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+|---|---|---|---|---|---|
 
-   ---
+### Frameworks & Tools
+| [![Spring Boot](https://img.shields.io/badge/Spring_Boot-00aa44?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) | [![Vue.js](https://img.shields.io/badge/Vue.js-00aa44?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00aa44?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![MongoDB](https://img.shields.io/badge/MongoDB-00aa44?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) | [![MySQL](https://img.shields.io/badge/MySQL-00aa44?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) | [![Git](https://img.shields.io/badge/Git-00aa44?style=flat&logo=git&logoColor=white)](https://git-scm.com/) | [![Maven](https://img.shields.io/badge/Maven-00aa44?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/) |
+|---|---|---|---|---|---|---|
 
-### Segundo Semestre:
+---
 
-#### API:
-[Zeus:](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC) Gerenciador de dados climáticos à partir de dados provenientes de arquivo CSV.
+## 🎓 Academic Portfolio — Fatec SJC
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Zeus_Coderhood_FATEC)](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC)
+> 5 semesters of real-world projects, growing from developer to Scrum Master and team lead.
+
+### 1st Semester — CoderHood
+**Role:** Developer  |  First steps in web development: modals, HTML, CSS and JavaScript.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=ProjetoCoderHood&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/ProjetoCoderHood)
+
+---
+
+### 2nd Semester — Zeus
+**Role:** Scrum Master + Developer  |  Climate data manager from CSV files. Contributed to DB modeling, developed the weather station CRUD, and led team coordination and deadline management.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Zeus_Coderhood_FATEC&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC)
+
+---
+
+### 3rd Semester — Morpheus
+**Role:** Scrum Master + Developer  |  Tool for capturing and storing strategic news. Responsible for full technical documentation and system integrations for delivery.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=FatecMorpheus&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/FatecMorpheus)
+
+---
+
+### 4th Semester — Demeter
+**Role:** Scrum Master + Developer  |  Polygon editor with qualitative and quantitative metrics (Visiona partnership). Built an interactive burndown chart generated from task data, and handled final project integrations.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=API_4S_Visiona_PolygonEditor&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/API_4S_Visiona_PolygonEditor)
+
+---
+
+### 5th Semester — Neo Horizon
+**Role:** Backend Developer  |  BI platform for project management integrated with Jira (Necto partnership). Contributions: login & user backend, Star Schema DB modeling, ETL pipeline, Swagger setup, Spring Boot project structure, reqTrack DevOps process, and backend refactoring with mapper pattern.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=API_5S&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/API_5S)
 
 ---
 
@@ -95,6 +90,7 @@ Repositório com as atividades das disciplinas do terceiro semestre.
 <a href="https://br.linkedin.com/in/cesar-augusto-anselmo-pelogia-truyts-94a08a268" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cesar%20Pelogia-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:pelogia.cesar@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pelogia.cesar@hotmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.instagram.com/cesarpelogia" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cesarpelogia-blue?style=flat&logo=instagram"></a>
+ <a href="https://www.instagram.com/burstintofire" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-BurstIntoFre-blue?style=flat&logo=instagram"></a>
 </p>
 
 ⭐️ From [@cesarpelogia](https://github.com/cesarpelogia)
