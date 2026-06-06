@@ -6,12 +6,23 @@
 
 <br>
 
-<div class="badges-githubstats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cesarpelogia&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&include_all_commits=true" alt="GitHub Stats">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesarpelogia&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=c7b8ff" alt="GitHub Streak">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarpelogia&layout=compact&hide_border=true&bg_color=082421&title_color=7c60d1&text_color=f0f0f5&border_radius=10&langs_count=6" alt="Top Languages">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cesarpelogia&theme=github_dark" alt="GitHub Stats">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesarpelogia&theme=github_dark" alt="Most Commit Language">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cesarpelogia&theme=github_dark" alt="Top Languages">
+</div>
+---
+
+## 📌 Featured — Graduation Thesis
+
+<div align="center">
+
+### **Database Technology II — Final Thesis Project**
+
+[![View Graduation Thesis](https://img.shields.io/badge/View%20Graduation%20Thesis-7c60d1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesarpelogia/Fatec-Sexto-Semestre/tree/main/Projeto%20Trabalho%20de%20Gradua%C3%A7%C3%A3o%20de%20Banco%20de%20Dados%20II)
+
 </div>
 
 ---
@@ -39,51 +50,90 @@ which turns out to be surprisingly good training for Scrum Mastering.
 ## 🔧 Tech Stack
 
 ### Languages
-| [![Java](https://img.shields.io/badge/Java-00aa44?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) | [![Python](https://img.shields.io/badge/Python-00aa44?style=flat&logo=python&logoColor=white)](https://www.python.org/) | [![SQL](https://img.shields.io/badge/SQL-00aa44?style=flat&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL) | [![JavaScript](https://img.shields.io/badge/JavaScript-00aa44?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://img.shields.io/badge/TypeScript-00aa44?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![Bash](https://img.shields.io/badge/Bash-00aa44?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) |
+| [![Java](https://img.shields.io/badge/Java-00aa44?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) | [![Python](https://img.shields.io/badge/Python-00aa44?style=flat&logo=python&logoColor=white)](https://www.python.org/) | [![JavaScript](https://img.shields.io/badge/JavaScript-00aa44?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://img.shields.io/badge/TypeScript-00aa44?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![C++](https://img.shields.io/badge/C++-00aa44?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/) | [![Bash](https://img.shields.io/badge/Bash-00aa44?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) |
 |---|---|---|---|---|---|
 
-### Frameworks & Tools
-| [![Spring Boot](https://img.shields.io/badge/Spring_Boot-00aa44?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) | [![Vue.js](https://img.shields.io/badge/Vue.js-00aa44?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00aa44?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Docker](https://img.shields.io/badge/Docker-00aa44?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) | [![Git](https://img.shields.io/badge/Git-00aa44?style=flat&logo=git&logoColor=white)](https://git-scm.com/) | [![Linux](https://img.shields.io/badge/Linux-00aa44?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) | [![Jira](https://img.shields.io/badge/Jira-00aa44?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) |
-|---|---|---|---|---|---|---|
+### Frameworks
+| [![Spring Boot](https://img.shields.io/badge/Spring_Boot-00aa44?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) | [![Vue.js](https://img.shields.io/badge/Vue.js-00aa44?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/) | [![FastAPI](https://img.shields.io/badge/FastAPI-00aa44?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) | [![React](https://img.shields.io/badge/React-00aa44?style=flat&logo=react&logoColor=white)](https://react.dev/) |
+|---|---|---|---|
+
+### Tools
+| [![Docker](https://img.shields.io/badge/Docker-00aa44?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) | [![Git](https://img.shields.io/badge/Git-00aa44?style=flat&logo=git&logoColor=white)](https://git-scm.com/) | [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00aa44?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) | [![Linux](https://img.shields.io/badge/Linux-00aa44?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) | [![Jira](https://img.shields.io/badge/Jira-00aa44?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) |
+|---|---|---|---|---|
+
+### Database
+| [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00aa44?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![MySQL](https://img.shields.io/badge/MySQL-00aa44?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) | [![Oracle](https://img.shields.io/badge/Oracle-00aa44?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/) | [![SQL Server](https://img.shields.io/badge/SQL_Server-00aa44?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server) | [![MongoDB](https://img.shields.io/badge/MongoDB-00aa44?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
+|---|---|---|---|---|
+
+---
+
+## 🛠️ Personal & Professional Projects
+
+### Personal Projects
+
+**Commerce App Template** — E-commerce monorepo in progress. Full-stack architecture with Next.js (storefront + admin panel), Spring Boot API, PostgreSQL, Redis, and Docker Compose. Shared component library via Turborepo.
+
+[![ReadMe Card](https://gh-card.dev/repos/cesarpelogia/commerce-app-template.svg)](https://github.com/cesarpelogia/commerce-app-template)
+
+---
+
+### Technical Challenges
+
+**Industrial Monitoring Dashboard** — Real-time dashboard built for a technical hiring challenge. Monitors an industrial mixer with live state tracking (RUNNING/STOPPED/MAINTENANCE/ERROR), OEE metrics, and a configurable alert system. Stack: Next.js 14, TypeScript, Turborepo monorepo, Recharts, Jest.
+
+[![ReadMe Card](https://gh-card.dev/repos/cesarpelogia/industrial-monitoring-dashboard.svg)](https://github.com/cesarpelogia/industrial-monitoring-dashboard)
+
+---
+
+**FURIA Tech Challenge** — Chatbot for CS:GO fans built for a FURIA Tech hiring challenge. Telegram bot that delivers team news, match results, and player info through a conversational interface. Stack: Python, TeleBot, python-dotenv.
+
+[![ReadMe Card](https://gh-card.dev/repos/cesarpelogia/furia-tech-challenge-2024-01.svg)](https://github.com/cesarpelogia/furia-tech-challenge-2024-01)
 
 ---
 
 ## 🎓 Academic Portfolio — Fatec SJC
 
-> 5 semesters of real-world projects, growing from developer to Scrum Master and team lead.
+> 6 semesters of real-world projects, growing from developer to Scrum Master and team lead.
 
 ### 1st Semester — CoderHood
 **Role:** Developer  |  First steps in web development: modals, HTML, CSS and JavaScript.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=ProjetoCoderHood&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/ProjetoCoderHood)
+[![ReadMe Card](https://gh-card.dev/repos/cesarpelogia/ProjetoCoderHood.svg)](https://github.com/cesarpelogia/ProjetoCoderHood)
 
 ---
 
 ### 2nd Semester — Zeus
 **Role:** Scrum Master + Developer  |  Climate data manager from CSV files. Contributed to DB modeling, developed the weather station CRUD, and led team coordination and deadline management.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=Zeus_Coderhood_FATEC&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC)
+[![ReadMe Card](https://gh-card.dev/repos/cesarpelogia/Zeus_Coderhood_FATEC.svg)](https://github.com/cesarpelogia/Zeus_Coderhood_FATEC)
 
 ---
 
 ### 3rd Semester — Morpheus
 **Role:** Scrum Master + Developer  |  Tool for capturing and storing strategic news. Responsible for full technical documentation and system integrations for delivery.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=FatecMorpheus&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/FatecMorpheus)
+[![ReadMe Card](https://gh-card.dev/repos/cesarpelogia/FatecMorpheus.svg)](https://github.com/cesarpelogia/FatecMorpheus)
 
 ---
 
 ### 4th Semester — Demeter
 **Role:** Scrum Master + Developer  |  Polygon editor with qualitative and quantitative metrics (Visiona partnership). Built an interactive burndown chart generated from task data, and handled financial metrics.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=API_4S_Visiona_PolygonEditor&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/API_4S_Visiona_PolygonEditor)
+[![ReadMe Card](https://gh-card.dev/repos/cesarpelogia/API_4S_Visiona_PolygonEditor.svg)](https://github.com/cesarpelogia/API_4S_Visiona_PolygonEditor)
 
 ---
 
 ### 5th Semester — Neo Horizon
 **Role:** Backend Developer  |  BI platform for project management integrated with Jira (Necto partnership). Contributions: login & user backend, Star Schema DB modeling, ETL pipeline, Swagger setup.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cesarpelogia&repo=API_5S&theme=dark&bg_color=0d2b0d&title_color=00ff55&text_color=4dcc77&border_color=1a4a1a&border_radius=10)](https://github.com/cesarpelogia/API_5S)
+[![ReadMe Card](https://gh-card.dev/repos/cesarpelogia/API_5S.svg)](https://github.com/cesarpelogia/API_5S)
+
+---
+
+### 6th Semester — API 6S
+**Role:** TBD  |  Capstone project continuing the journey in backend development and system architecture.
+
+[![ReadMe Card](https://gh-card.dev/repos/FatecNeoHorizon/API_6S.svg)](https://github.com/FatecNeoHorizon/API_6S)
 
 ---
 
